@@ -1,0 +1,20 @@
+.blogItemContainer {
+  list-style-type: none;
+  border-bottom: 1px solid #9aa5b1;
+}
+
+.blogItemTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blogItemHeading {
+  font-size: 22px;
+  color: #12022f;
+}
+
+.blogItemDescription {
+  color: #616e7c;
+  font-size: 17px;
+}
